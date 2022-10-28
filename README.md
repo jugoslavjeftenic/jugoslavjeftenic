@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jugoslavjeftenic
-- 👀 I’m interested in ... web development
-- 🌱 I’m currently learning ... java script
+- 👀 I’m interested in ... programing
+- 🌱 I’m currently learning ... java
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... jugoslav.jeftenic.su@gmail.com
 
