@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://github.com/jugoslavjeftenic/jugoslavjeftenic/blob/main/img/matrix.gif" width="100"/>
+</div>
+
 - 👋 Hi, I’m @jugoslavjeftenic
 - 👀 I’m interested in ... programing
 - 🌱 I’m currently learning ... java
