@@ -2,6 +2,9 @@
   <img src="https://github.com/jugoslavjeftenic/jugoslavjeftenic/blob/main/img/matrix.gif" width="100"/>
 </div>
 
+https://komarev.com/ghpvc/?username=jugoslavjeftenic
+<img src="https://komarev.com/ghpvc/?username=jugoslavjeftenic=flat-square&color=blue" alt=""/>
+
 - 👋 Hi, I’m @jugoslavjeftenic
 - 👀 I’m interested in ... programing
 - 🌱 I’m currently learning ... java
